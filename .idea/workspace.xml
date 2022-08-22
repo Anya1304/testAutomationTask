@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfc2ac36-4eb4-4302-891a-4430c76f1430" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2DZkuLlMvEALaE5tL7cpkbzDzts" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last.edited.regexp" value="aMissingValue" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hanna\IdeaProjects\TestAutomationTask" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atlas.techtask" />
+      <recent name="com.atlas.techtask.booking" />
+      <recent name="com.atlasIAC.techtask" />
+      <recent name="com.atlasIAC" />
+      <recent name="com" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn testReporter" />
+      <command value="mvn  com.atlasIAC.techtask::TestAutomationTask" />
+      <command value="mvn compile" />
+      <command value="mvn org.example::TestAutomationTask" />
+      <command value="mvn  com.atlasIAC::TestAutomationTask" />
+      <command value="mvn  com.atlasIAC:TestAutomationTask:1.0-SNAPHOT:testReport" />
+      <command value="mvn clean install" />
+      <command value="mvn clean install -info" />
+      <command value="mvn clean install -X" />
+      <command value="mvn clean install " />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BookingTest (1)">
+    <configuration name="TestAmountReporter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TestAmountReporter" />
+      <module name="TestAutomationTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAmountReporter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atlasIAC.techtask.TestAmountReporter" />
+      <module name="TestAutomationTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atlasIAC.techtask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atlas.techtask.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atlas.techtask.booking" />
+      <option name="MAIN_CLASS_NAME" value="com.atlas.techtask.booking.BookingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookingTest.searchHotelsWithoutCity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestAutomationTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BookingTest" />
+      <option name="METHOD_NAME" value="searchHotelsWithoutCity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BookingTest (1)" />
+        <item itemvalue="Application.TestAmountReporter (1)" />
+        <item itemvalue="Application.TestAmountReporter" />
+        <item itemvalue="JUnit.BookingTest" />
+        <item itemvalue="JUnit.BookingTest.searchHotelsWithoutCity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfc2ac36-4eb4-4302-891a-4430c76f1430" name="Changes" comment="" />
+      <created>1660914218737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660914218737</updated>
+      <workItem from="1660914221488" duration="60025000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/atlas/techtask/booking/BookingTest.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
