@@ -1,4 +1,4 @@
-package com.atlas.techtask.booking.modules;
+package com.atlas.techtask.booking.elements;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

@@ -1,6 +1,6 @@
 package com.atlas.techtask.booking.pages;
 
-import com.atlas.techtask.booking.modules.MainDatepicker;
+import com.atlas.techtask.booking.elements.MainDatepicker;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -50,13 +50,14 @@ public class BookingHomePage {
     }
 
     private void setDatepickerDate(LocalDate date) {
-       datepicker.pickDate(date);
+        datepicker.pickDate(date);
     }
 
     public WebElement getAlertMessage() {
         return alertMessage;
     }
-    public WebElement getDatepicker(){
+
+    public WebElement getDatepicker() {
         return datepicker.getCalendar();
     }
 }
